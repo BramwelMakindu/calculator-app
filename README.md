@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/BramwelMakindu/calculator-app]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://bramwel-calculator-app.netlify.app/]
 
 ## My process
 
