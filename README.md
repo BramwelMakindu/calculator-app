@@ -12,8 +12,6 @@ This is a solution to the [Calculator app challenge on Frontend Mentor](https://
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -57,6 +55,3 @@ Javascript has been a huge challenge for me but I will continue to work on more 
 ### Useful resources
 
 - [Example resource 1](https://www.w3schools.com) - This helped me find various solutions to the problems I was facing and I will use it going forward.
-- 
-## Author
-
